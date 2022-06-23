@@ -17,7 +17,7 @@
 
 ---
 ### :woman_technologist: About Me:
-#### I'm Renato Santos, married to Maria Cláudia Santos, graduated in Computer Science from the Catholic University of Pernambuco and passionate about the open source world. Since 1999 I have been using several GNU/Linux distributions. I currently use Arch Linux.
+#### I'm Renato Santos, married to Maria Cláudia Santos, graduated in Computer Science from the Universidade Católica de Pernambuco and passionate about the open source world. Since 1999 I have been using several GNU/Linux distributions. I currently use Arch Linux.
 ---
 
 ### :hammer_and_wrench: Langs and Tools :
