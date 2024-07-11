@@ -1,5 +1,5 @@
 ### :man_technologist: About Me:
-##### I am a Free Software enthusiast and passionate about open-source solutions and process automation. My skills include system administration, graphic editing, and programming. I have experience in both Windows and GNU/Linux environments, configuring and maintaining servers. In programming, I primarily focus on Ruby and the Rails framework, developing efficient systems with PostgreSQL as the main database.
+##### Ruby on Rails developer with experience in web application development, focused on improving user experience and increasing process efficiency..
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/renatoantonio-desenvolvedor-ruby-on-rails/">
@@ -9,15 +9,13 @@
 
 ### :hammer_and_wrench: Langs and Tools
 <div>
-  <img src="https://arquivos.p0ng.com.br/imagens/archlinux.png" title="Archlinux" alt="Archlinux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="GIMP" alt="GIMP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img src="https://arquivos.p0ng.com.br/imagens/archlinux.png" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
 </div>
   
   ---
