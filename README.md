@@ -2,7 +2,7 @@
 ##### Ruby on Rails developer with experience in web application development, focused on improving user experience and increasing process efficiency..
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/renatoantonio-desenvolvedor-ruby-on-rails/">
+  <a href="https://www.linkedin.com/in/renatoantonio-ror/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
